@@ -1,6 +1,4 @@
-# README
-
-BOOKSTORE
+Project - Bookstore
 
 DESCRIPTION AND FEATURES
 

@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+BOOKSTORE
 
-Things you may want to cover:
+DESCRIPTION AND FEATURES
 
-* Ruby version
+- Browse books by category
+- Books will have authors and publishers
+- Bootstrap layout
+- Books, categories, authors and publishers can be added
+from frontend
 
-* System dependencies
+SKILLS NECESSARY
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- MVC framework fundamentals
+- CRUD operations in Rails
+- Layouts with Bootstrap
+- RESTful Routing
